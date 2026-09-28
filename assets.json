@@ -1,0 +1,64 @@
+{
+  "assets": [
+    {
+      "name": "icon_1024",
+      "type": "icon",
+      "prompt": "App icon, glossy 3D single blue water droplet resting on a smooth grey pebble, centered, soft radial gradient background from light aqua to deep teal, crisp, no text"
+    },
+    {
+      "name": "bg_loader",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile app background, deep teal underwater gradient with soft light rays, dark, minimal, cinematic, no text, no UI elements"
+    },
+    {
+      "name": "bg_menu",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile app background, pale aqua water surface with gentle ripples, very light, airy minimal, no text, no UI elements"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile app background, soft blurred light blue water gradient, very low contrast for UI overlay, no text, no UI elements"
+    },
+    {
+      "name": "bg_result",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile app background, calm teal ocean at dusk with warm golden light on the water, cinematic, no text, no UI elements"
+    },
+    {
+      "name": "sprite_droplet",
+      "type": "sprite",
+      "prompt": "One single glossy blue water droplet, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_bottle",
+      "type": "sprite",
+      "prompt": "One single cute reusable aqua water bottle, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_glass",
+      "type": "sprite",
+      "prompt": "One single clear drinking glass filled with water, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_wave",
+      "type": "sprite",
+      "prompt": "One single simple stylised aqua water wave ribbon, horizontal, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_pebble_trophy",
+      "type": "sprite",
+      "prompt": "One single shiny golden pebble stone with a small water droplet on top, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_calendar",
+      "type": "sprite",
+      "prompt": "One single simple calendar page icon in aqua blue, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "button_cta",
+      "type": "button",
+      "prompt": "Horizontal mobile game CTA button background, aqua blue to mint gradient with subtle water texture, glossy, rounded, no text"
+    }
+  ]
+}
